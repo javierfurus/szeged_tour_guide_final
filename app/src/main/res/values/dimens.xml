@@ -15,4 +15,10 @@
 <resources>
     <!-- Height of each list item -->
     <dimen name="list_item_height">88dp</dimen>
+    <dimen name="main_padding">16dp</dimen>
+    <dimen name="player_item_padding">5dp</dimen>
+    <dimen name="player_cover_art_size">300dp</dimen>
+    <dimen name="radius_of_cards">10dp</dimen>
+    <dimen name="selected_text_size">15sp</dimen>
+    <dimen name="selected_title_text_style">20sp</dimen>
 </resources>

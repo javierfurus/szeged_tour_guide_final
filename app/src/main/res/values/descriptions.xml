@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <!-- Miwok translation for color red -->
+
+    <!-- Miwok translation for color dusty yellow -->
+
+    <!-- Miwok translation for color mustard yellow -->
+
+    <!-- Miwok translation for color green -->
+
+    <!-- Miwok translation for color brown -->
+
+    <!-- Miwok translation for color black -->
+
+    <!-- Miwok translation for color gray -->
+
+    <!-- Miwok translation for color white -->
+
+    <!-- Miwok translation for father -->
+    <string name="virag_etterem_descript">Virág Étterem is Szeged\'s most well know restaurant with
+    vast history and high quality foods!</string>
+
+    <!-- Miwok translation for mother -->
+    <string name="halaszcsarda_descript">Halászcsárda creates one of Hugary\'s most well-known dishes
+    the so-called <i>halászlé</i>, a soup made of fish. A true delicacy!</string>
+
+    <!-- Miwok translation for son -->
+
+    <!-- Miwok translation for daughter -->
+
+    <!-- Miwok translation for older brother -->
+    <string name="john_bull_pub_description">The John Bull Pub is a well known, local restaurant
+        with a reputation for exciting, creative cooking and a superlative wine list .
+The talented chef and his team provide inventive cooking with intriguing combinations of ingredients
+        designed to surprise and thrill with some simpler classics, wonderfully flavoured dishes
+        based on fresh, locally sourced, seasonal produce.</string>
+
+    <!-- Miwok translation for younger brother -->
+    <string name="taj_maha_description">Taste the tantalizing menu and
+        authentic Indian atmosphere at the TAJ MAHAL Restaurant. If you want to feel exotic subcontinental
+        flavors of Hungary, with an assortment of delectable dishes including exquisite meat dishes
+        and splendid vegetarian meals.</string>
+    <string name="art_hotel_description">The ARTHotel Szeged is located in downtown Szeged facing
+        directly to the Cathedral Square (Dóm tér). Four star rooms, a modern restaurant, well-equipped
+        conference rooms and a variety of relaxing spa services make our hotel the trendiest in town
+        that has been already recognized by many awards. ART Hotel Szeged is the perfect choice for
+        the city breakers, theatre fans, art enthusiasts, water sports lovers and business travellers.</string>
+    <!-- Miwok translation for older sister -->
+    <string name="tiszavirag_description">The Tiszavirág is a wonderfully renovated historical townhouse
+        with an inner court in the centre of Szeged. The hotel houses 12 different sized rooms,
+        a bar, restaurant, café, conference room and SPA. It is an ideal place for those who are
+        looking for a boutique-style hotel for fine dining, business, relaxation and entertainment.
+        Our conference room is a perfect venue for companies to hold meetings, workshops or training
+        events.</string>
+
+    <!-- Miwok translation for younger sister -->
+    <string name="science_description">With the water kettle you will find premium quality coffee and tea stocked
+        in your room; the air conditioner in the room can be set individually and there is a USB port
+        for charging portable devices in each room. This is all the wonderful comfort you can get in the
+        amazing Science Hotel that welcomes all scientists traveling and everyone who just wants to spend
+        a lovely time in Szeged!</string>
+
+    <!-- Miwok translation for grandmother -->
+    <string name="auris_description"> Hotel Auris is the newest business hotel of Szeged, located in
+        the heart of the city, near to Dóm square, even so in quiet, peaceful environment.
+        Only a few minutes walk from the beautiful banks of river Tisza. Plenty of comfort to do your
+        work better and to relax: fre Wi-Fi, comfortable rooms, great coffe and a lovely staff!</string>
+
+    <!-- Miwok translation for grandfather -->
+    <string name="szegedzoo_description">The zoo with the largest land area in Hungary has been
+        receiving visitors since 1989. Although it is located a mere 2.5 km from the city centre
+        of Szeged, it lies in a natural environment. The oak forest and Lake Sancer promise a
+        pleasant and calming experience by themselves. However, the animal collection offers
+        exciting encounters, as visitors can see several true curiosities along with zoo favourites,
+        such as lions, giraffes, meerkats, and Asian elephants (the latter from May 2018).
+        Besides these, the Zoo is conducting conservation and educational activities that are outstanding in the region.</string>
+
+    <!-- Miwok translation for number one -->
+    <string name="votive_description">The Votive Church was consecrated on 24th October, 1930.
+        The cathedral of Our Lady of Hungary is the fourth largest church in the country.
+        Its architecture is characterised by the mixture of Roman, gothic and eastern Byzantine
+        style elements.</string>
+
+    <!-- Miwok translation for number two -->
+    <string name="pantheon_description">The National Pantheon in Szeged sorrounds the Votive Church in
+    Dóm Square. This square depicts the reliefs and statues of many famous hungarian poets, writers,
+    scientists and politicians. It is a beautiful and breathtaking site for anyone to visit!</string>
+
+    <!-- Miwok translation for number three -->
+    <string name="synagogue_description">The Synagogue, which was built 113 years ago,
+        is a very famous destination for students, hungarian and foreigner groups. It’s open every day
+        (except Saturdays and Jewish holidays) for tourists and for groups. Guided tours are also
+        available in English for foreigner groups.</string>
+
+    <!-- Miwok translation for number four -->
+
+    <!-- Miwok translation for number five -->
+
+    <!-- Miwok translation for number six -->
+
+    <!-- Miwok translation for number seven -->
+
+    <!-- Miwok translation for number eight -->
+
+    <!-- Miwok translation for number nine -->
+
+    <!-- Miwok translation for number ten -->
+
+    <!-- Miwok translation for phrase "Where are you going?" -->
+
+    <!-- Miwok translation for phrase "What is your name?" -->
+
+    <!-- Miwok translation for phrase "My name is..." -->
+
+    <!-- Miwok translation for phrase "How are you feeling?" -->
+
+    <!-- Miwok translation for phrase "I'm feeling good." -->
+
+    <!-- Miwok translation for phrase "Are you coming?" -->
+
+    <!-- Miwok translation for phrase "Yes, I'm coming." -->
+
+    <!-- Miwok translation for phrase "I'm coming." -->
+
+    <!-- Miwok translation for phrase "Let's go." -->
+
+    <!-- Miwok translation for phrase "Come here." -->
+</resources>
