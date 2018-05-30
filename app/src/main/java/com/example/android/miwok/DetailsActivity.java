@@ -25,8 +25,8 @@ public class DetailsActivity extends AppCompatActivity {
 
         ArrayList<Word> selectedsong = new ArrayList<>();
         selectedsong.add(song);
-        TitleAdapterPlayer adapter =
-                new TitleAdapterPlayer(DetailsActivity.this, selectedsong);
+        DetailsAdapter adapter =
+                new DetailsAdapter(DetailsActivity.this, selectedsong);
 
         ListView listView = (ListView) findViewById(R.id.list);
 

@@ -37,8 +37,10 @@ public class CategoryAdapter extends FragmentPagerAdapter {
             return new LocationsFragment();
         } else if (position == 1) {
             return new RestaurantsFragment();
-        } else {
+        } else if (position == 2) {
             return new HotelsFragment();
+        } else {
+            return new UsefulPlacesFragment();
         }
     }
 
@@ -47,7 +49,7 @@ public class CategoryAdapter extends FragmentPagerAdapter {
      */
     @Override
     public int getCount() {
-        return 3;
+        return 4;
     }
 
     @Override
@@ -56,8 +58,10 @@ public class CategoryAdapter extends FragmentPagerAdapter {
             return mContext.getString(R.string.category_famous_location);
         } else if (position == 1) {
             return mContext.getString(R.string.category_restaurants);
-        } else {
+        } else if (position == 2) {
             return mContext.getString(R.string.category_hotels);
+        } else {
+            return mContext.getString(R.string.category_useful);
         }
     }
 }

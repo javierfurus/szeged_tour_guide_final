@@ -16,8 +16,9 @@
 
     <string name="app_name">Szeged Tour Guide</string>
 
-    <string name="category_hotels">Hotels</string>
+    <string name="category_useful">Shopping</string>
 
+    <string name="category_hotels">Hotels</string>
 
     <string name="category_famous_location">Famous Locations</string>
 
@@ -29,12 +30,9 @@
 
     <string name="science">Science Hotel</string>
 
-
     <string name="auris">Auris Hotel</string>
 
-
     <string name="szegedzoo">Szeged Zoo</string>
-
 
     <string name="votive">Votive Church</string>
 
@@ -97,5 +95,22 @@
     <string name="pantheon_location">Szeged, Dóm tér 15, 6720</string>
 
     <string name="pantheon_url">https://goo.gl/maps/X3ucR8FhH1u.</string>
+
+    <string name="arkad">Árkád Szeged</string>
+    <string name="arkad_location">Szeged, Londoni krt. 3, 6724</string>
+    <string name="arkad_url">https://goo.gl/maps/MDX7AdQLXFr</string>
+
+    <string name="napfenypark">Napfény Park</string>
+    <string name="napfenypark_location">Szeged, Szabadkai út 7., 6729</string>
+    <string name="napfenypark_url">https://goo.gl/maps/cGjo8TGWuLJ2</string>
+
+    <string name="nagyaruhaz">Szeged Nagyáruház</string>
+    <string name="nagyaruhaz_location">Szeged,Tisza Lajos körút 6720</string>
+    <string name="nagyaruhaz_url">https://goo.gl/maps/f3mdpDSReNw</string>
+
+    <string name="plaza">Szeged Plaza</string>
+    <string name="plaza_location">Szeged, Kossuth Lajos sgrt. 119, 6724</string>
+    <string name="plaza_url">https://goo.gl/maps/r9SRKH3a3tC2</string>
+
 
 </resources>

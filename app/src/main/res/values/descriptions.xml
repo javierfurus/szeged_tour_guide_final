@@ -15,42 +15,18 @@
 -->
 <resources>
 
-    <!-- Miwok translation for color red -->
-
-    <!-- Miwok translation for color dusty yellow -->
-
-    <!-- Miwok translation for color mustard yellow -->
-
-    <!-- Miwok translation for color green -->
-
-    <!-- Miwok translation for color brown -->
-
-    <!-- Miwok translation for color black -->
-
-    <!-- Miwok translation for color gray -->
-
-    <!-- Miwok translation for color white -->
-
-    <!-- Miwok translation for father -->
     <string name="virag_etterem_descript">Virág Étterem is Szeged\'s most well know restaurant with
     vast history and high quality foods!</string>
 
-    <!-- Miwok translation for mother -->
     <string name="halaszcsarda_descript">Halászcsárda creates one of Hugary\'s most well-known dishes
     the so-called <i>halászlé</i>, a soup made of fish. A true delicacy!</string>
 
-    <!-- Miwok translation for son -->
-
-    <!-- Miwok translation for daughter -->
-
-    <!-- Miwok translation for older brother -->
     <string name="john_bull_pub_description">The John Bull Pub is a well known, local restaurant
         with a reputation for exciting, creative cooking and a superlative wine list .
-The talented chef and his team provide inventive cooking with intriguing combinations of ingredients
+        The talented chef and his team provide inventive cooking with intriguing combinations of ingredients
         designed to surprise and thrill with some simpler classics, wonderfully flavoured dishes
         based on fresh, locally sourced, seasonal produce.</string>
 
-    <!-- Miwok translation for younger brother -->
     <string name="taj_maha_description">Taste the tantalizing menu and
         authentic Indian atmosphere at the TAJ MAHAL Restaurant. If you want to feel exotic subcontinental
         flavors of Hungary, with an assortment of delectable dishes including exquisite meat dishes
@@ -60,7 +36,7 @@ The talented chef and his team provide inventive cooking with intriguing combina
         conference rooms and a variety of relaxing spa services make our hotel the trendiest in town
         that has been already recognized by many awards. ART Hotel Szeged is the perfect choice for
         the city breakers, theatre fans, art enthusiasts, water sports lovers and business travellers.</string>
-    <!-- Miwok translation for older sister -->
+
     <string name="tiszavirag_description">The Tiszavirág is a wonderfully renovated historical townhouse
         with an inner court in the centre of Szeged. The hotel houses 12 different sized rooms,
         a bar, restaurant, café, conference room and SPA. It is an ideal place for those who are
@@ -68,20 +44,17 @@ The talented chef and his team provide inventive cooking with intriguing combina
         Our conference room is a perfect venue for companies to hold meetings, workshops or training
         events.</string>
 
-    <!-- Miwok translation for younger sister -->
     <string name="science_description">With the water kettle you will find premium quality coffee and tea stocked
         in your room; the air conditioner in the room can be set individually and there is a USB port
         for charging portable devices in each room. This is all the wonderful comfort you can get in the
         amazing Science Hotel that welcomes all scientists traveling and everyone who just wants to spend
         a lovely time in Szeged!</string>
 
-    <!-- Miwok translation for grandmother -->
     <string name="auris_description"> Hotel Auris is the newest business hotel of Szeged, located in
         the heart of the city, near to Dóm square, even so in quiet, peaceful environment.
         Only a few minutes walk from the beautiful banks of river Tisza. Plenty of comfort to do your
         work better and to relax: fre Wi-Fi, comfortable rooms, great coffe and a lovely staff!</string>
 
-    <!-- Miwok translation for grandfather -->
     <string name="szegedzoo_description">The zoo with the largest land area in Hungary has been
         receiving visitors since 1989. Although it is located a mere 2.5 km from the city centre
         of Szeged, it lies in a natural environment. The oak forest and Lake Sancer promise a
@@ -90,54 +63,36 @@ The talented chef and his team provide inventive cooking with intriguing combina
         such as lions, giraffes, meerkats, and Asian elephants (the latter from May 2018).
         Besides these, the Zoo is conducting conservation and educational activities that are outstanding in the region.</string>
 
-    <!-- Miwok translation for number one -->
     <string name="votive_description">The Votive Church was consecrated on 24th October, 1930.
         The cathedral of Our Lady of Hungary is the fourth largest church in the country.
         Its architecture is characterised by the mixture of Roman, gothic and eastern Byzantine
         style elements.</string>
 
-    <!-- Miwok translation for number two -->
     <string name="pantheon_description">The National Pantheon in Szeged sorrounds the Votive Church in
     Dóm Square. This square depicts the reliefs and statues of many famous hungarian poets, writers,
     scientists and politicians. It is a beautiful and breathtaking site for anyone to visit!</string>
 
-    <!-- Miwok translation for number three -->
     <string name="synagogue_description">The Synagogue, which was built 113 years ago,
         is a very famous destination for students, hungarian and foreigner groups. It’s open every day
         (except Saturdays and Jewish holidays) for tourists and for groups. Guided tours are also
         available in English for foreigner groups.</string>
 
-    <!-- Miwok translation for number four -->
+    <string name="arkad_description">Situated in the heart of the city, the Árkád is Szeged\'s most
+    prominent shopping malls. With over 130 shops it is the biggest shopping mall of the region. Its
+    lovely and modern design and happy atmosphere, its stylish coffeshops - the only Strarbucks in
+    the region - will keep anyone entertained for a day!</string>
 
-    <!-- Miwok translation for number five -->
+    <string name="napfenypark_description">Napfénypark is the biggest in territory shopping mall of Szeged.
+    With over 35 stores and several restaurants and a big TESCO one can find everything they may need to get
+    by in the city.</string>
 
-    <!-- Miwok translation for number six -->
+    <string name="nagyaruhaz_description">Right in the center of the city and near every University
+    building Nagyáruház is one of Szeged\'s most lively places. It has several fresh restaurants, a
+    COOP shop and several other useful shops. </string>
 
-    <!-- Miwok translation for number seven -->
+    <string name="plaza_description">Szeged Plaza is Szeged\'s entertainment center for those who
+    look for the following: cinema and gokarting. It has more than 30 shops waiting for visitors and
+    a beautiful view with the mall facing a wonderful lake. A true joy for those looking for calm shopping!</string>
 
-    <!-- Miwok translation for number eight -->
 
-    <!-- Miwok translation for number nine -->
-
-    <!-- Miwok translation for number ten -->
-
-    <!-- Miwok translation for phrase "Where are you going?" -->
-
-    <!-- Miwok translation for phrase "What is your name?" -->
-
-    <!-- Miwok translation for phrase "My name is..." -->
-
-    <!-- Miwok translation for phrase "How are you feeling?" -->
-
-    <!-- Miwok translation for phrase "I'm feeling good." -->
-
-    <!-- Miwok translation for phrase "Are you coming?" -->
-
-    <!-- Miwok translation for phrase "Yes, I'm coming." -->
-
-    <!-- Miwok translation for phrase "I'm coming." -->
-
-    <!-- Miwok translation for phrase "Let's go." -->
-
-    <!-- Miwok translation for phrase "Come here." -->
 </resources>
